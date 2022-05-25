@@ -12,6 +12,6 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/Koyomiya/posts.svg" />
   </a>
 </p>
-![Koyomiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=koyomiyahouya)](https://github.com/koyomiyahouya/github-readme-stats)
+[![Koyomiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=koyomiyahouya)](https://github.com/koyomiyahouya/github-readme-stats)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=koyomiyahouya)](https://github.com/koyomiyahouya/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=koyomiyahouya)](https://github.com/koyomiyahouya/github-profile-trophy)
