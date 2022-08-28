@@ -13,6 +13,6 @@
   </a>
 </p>
 
-[![Koyomiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=koyomiyahouya)](https://github.com/anuraghazra/github-readme-stats)
+[![Koyomiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=koyomiyahouya&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Koyomiyahouya)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=koyomiyahouya)](https://github.com/koyomiyahouya/github-profile-trophy)
